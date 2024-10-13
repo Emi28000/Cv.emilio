@@ -1,0 +1,78 @@
+body{
+    background-color: rgba(241, 241, 230, 0.334);
+}
+img{
+    height: 250px;
+    width: 300px;
+    position: relative;
+    left: 10px;
+    padding: auto;
+  } 
+  .kalnia-glaze,h1,.ta{
+    position: center;
+    left: 20px;
+    font-size: 50px;
+    font-family: "Kalnia Glaze", serif;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;
+    font-variation-settings:
+    "wdth" 100;
+}  
+ .ita{
+    height:250px;
+    width: 300px;
+    position: relative;
+    left: 1200px;
+    margin-top: 10px;  
+ }
+ .lelo,.lel{
+    font-size: 20px;
+ }
+.lob,h3{
+    text-align: center;
+}
+hr{
+    border-color: rgb(25, 138, 236);
+    border-style:none;
+    border-top-style: dotted;
+    border-width: 5px;
+    width: 5%;
+}
+.lob{
+      
+    position: relative;
+    left: 750px;
+    margin-top: 10px; 
+ }
+ .lo{
+    
+    position: relative;
+    left: 1450px;
+    margin-top: 10px;
+ }
+ .ta{
+    width: 300px; 
+    transition: transform 0.5s ease;
+    position: relative;
+    left: 800px;
+    font-size: 50px;
+    margin-top: 120px;
+}
+.ta:hover {
+    transform: scale(1.5); 
+}
+#roc{
+    margin-top: -260px;
+}
+
+
+/*.ta {
+  font-family: "Kalnia Glaze", serif;
+  font-optical-sizing: auto;
+  font-weight: weight;
+  font-style: normal;
+  font-variation-settings:
+    "wdth" 100;
+}
+  
